@@ -1,12 +1,15 @@
+
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavoghiotti/gustavoghiotti/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavoghiotti/gustavoghiotti/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gustavoghiotti/gustavoghiotti/output/github-snake.svg" />
+</picture>
 
 <!-- Presentation -->
 <p>
@@ -24,8 +27,9 @@
 
 
 <!-- GithubStats -->
-![GustavoGhiotti's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoghiotti&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoghiotti&layout=compact&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=GustavoGhiotti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=GustavoGhiotti&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGhiotti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Portfolio -->
 <!--## Portfolio:
