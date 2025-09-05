@@ -4,6 +4,9 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <!-- Presentation -->
 <p>
