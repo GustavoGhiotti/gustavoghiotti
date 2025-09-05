@@ -7,7 +7,7 @@
 
 <div align=center>
   
-  <img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Animação de cobra" />
+  <img src="https://raw.githubusercontent.com/gustavoghiotti/gitrepo/output/snake.svg" alt="Animação de cobra" />
 </div>
 
 <!-- Presentation -->
