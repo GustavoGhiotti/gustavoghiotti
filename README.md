@@ -1,85 +1,42 @@
-
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
-
-<div align=center>
-  
-  <img src="https://raw.githubusercontent.com/gustavoghiotti/gustavoghiotti/output/snake.svg" alt="Animação de cobra" />
-</div>
-
-<!-- Presentation -->
-<p>
-
-  -  Atualmente estou cursando o 7 semestre de  Ciência da Computação.
-
-  - 🔭 Estou procurando minha primeira oportunidade de emprego na área de desenvolvimento. 
-
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 Mais sobre mim </summary>
-
-  - Sou um estudante do sétimo semestre de Ciência da Computação, com grande interesse em automação de processos e análise de dados. Minhas habilidades se concentram principalmente em Python e SQL, que utilizo para desenvolver soluções eficientes e automatizadas. Tenho experiência na criação de dashboards e relatórios utilizando Power BI e Excel, transformando dados brutos em insights acionáveis. Complementando minhas habilidades, possuo conhecimentos em desenvolvimento web com JavaScript, HTML e CSS, além de familiaridade com C e C#.
-</details>
-
-
-<!-- GithubStats -->
-![](https://github-readme-stats.vercel.app/api?username=GustavoGhiotti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GustavoGhiotti&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGhiotti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Portfolio -->
-<!--## Portfolio:
-- [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
-- [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
-- [Client Registry System](https://github.com/VariableBee/Cartorio) -->
-
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+<h1 align="center">Olá, eu sou o Gustavo 👋</h1>
+<p align="center">
+  <b>Desenvolvedor Full Stack · Python e React</b><br/>
+  Construo APIs, robôs de automação e painéis web que rodam todo dia em produção numa operação de cobrança.
 </p>
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align= alt="Js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img width="12" />
-    <img align="alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img width="12" />
-    <img align=alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img width="12" />
-    <img align="alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img width="12" />
-    <img align="alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-</div>
+---
 
-###
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-  </div> 
-  
-  <!-- Skills: Libraries -->
- <div style="flex-basis: 48%;">
-    <h3>Libraries</h3>
-    <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" height="40" alt="pytest logo"  />
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40" alt="anaconda logo"  />
-  </div> 
+### 🧑‍💻 Sobre mim
+- 🎓 Ciência da Computação, USCS
+- 💼 Hoje automatizo rotinas de uma operação de cobrança: transferência de arquivos (SFTP/SMB), cargas no SQL Server, disparos de SMS/WhatsApp/RCS/e-mail, emissão de boletos/PIX e relatórios automáticos no Slack
+- 🌐 Também faço front-end em React + TypeScript para os painéis internos
+- 🌱 Estudando agora: IA aplicada (transcrição de áudio, RAG) e arquitetura limpa
+
+### 🛠️ Tecnologias
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,react,ts,vite,tailwind&perline=7" alt="Linguagens e frameworks"/><br/>
+  <img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode,windows,linux&perline=7" alt="Banco de dados e ferramentas"/>
+</p>
+
+**Também uso:** SQL Server · Playwright · Selenium · pandas · Paramiko (SFTP) · Pydantic · JWT · Twilio · Infobip · SendGrid · Slack API
+
+### 🚀 Projetos em destaque
+| Projeto | O que faz | Stack |
+|---|---|---|
+| [integration-hub-api](https://github.com/GustavoGhiotti/integration-hub-api) | API central que integra negociação de dívidas, boletos/PIX, SMS, e-mail, WhatsApp e RCS | Python · Flask · React |
+| [operator-copilot](https://github.com/GustavoGhiotti/operator-copilot) | Plataforma para operadores de call center, com auditoria de ligações por IA, assistente com RAG e gamificação | Python · React · TS |
+| [debt-negotiation-portal](https://github.com/GustavoGhiotti/debt-negotiation-portal) | Portal de autoatendimento para renegociar dívidas e gerar boleto/PIX | Python · React · TS |
+| [slack-kpi-report-bot](https://github.com/GustavoGhiotti/slack-kpi-report-bot) | Lê indicadores no SQL Server, gera um painel em imagem e publica no Slack | Python · Playwright |
+| [sftp-transfer-orchestrator](https://github.com/GustavoGhiotti/sftp-transfer-orchestrator) | Robô que sincroniza arquivos dos SFTPs dos clientes a cada 10 minutos, com testes | Python · Paramiko |
+| [offline-audio-transcription](https://github.com/GustavoGhiotti/offline-audio-transcription) | Transcrição offline de gravações de ligações | Python · Whisper |
+
+### 📊 Estatísticas
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GustavoGhiotti&show_icons=true&count_private=true&theme=github_dark&hide_border=true" alt="Estatísticas"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGhiotti&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Linguagens mais usadas"/>
+</p>
+<img src="https://streak-stats.demolab.com/?user=GustavoGhiotti&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições"/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gustavoghiotti/gustavoghiotti/output/snake.svg" alt="Cobrinha comendo o gráfico de contribuições"/>
+</p>
